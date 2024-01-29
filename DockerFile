@@ -1,0 +1,2 @@
+# Note: This file is to build the Troly Forum docker image -- HOWEVER, it's located in the troly-discourse-theme repo;
+# 			This assumes we do not require major changes to the CORE discourse codebase. if we ever do, we must create a new troly-forum repo and move this file there.
